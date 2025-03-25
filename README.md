@@ -94,6 +94,10 @@ The primary goal of this repository is to store and document all the assignments
   - Via Gaussian Mixture Model (GMM)
   - Position tracking via Kalman Filter
 
+- [25/03/2025: **Optical Flow**](/notebooks/25_03_2025_optical_flow.ipynb)
+  - Sparse Optical Flow - Lucas-Kanade Algorithm
+  - Dense Optical Flow - Gunnar-Farneback Algorithm
+
 ## References
 
 Links to relevant reference materials are present as comments in the above notebooks.
