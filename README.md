@@ -14,6 +14,9 @@ Assignment work done for the **CS1604** (Image and Video Analytics) course of ou
 
 The primary goal of this repository is to store and document all the assignments completed for the Image and Video Analytics course. The assignments are implemented in Jupyter notebooks, utilizing libraries such as OpenCV, SciPy, NumPy, and Matplotlib for various image and video processing tasks. This repository serves as a practical collection of the techniques and methods learned throughout the course.
 
+> [!NOTE]
+> If cloning and running notebooks, be sure to extract the datasets present within the [datasets folder](/datasets/).
+
 ## Assignments
 
 - [03/01/2025: **Basic Image Manipulation**](/notebooks/03_01_2025_basic_manipulation.ipynb)
@@ -97,6 +100,18 @@ The primary goal of this repository is to store and document all the assignments
 - [25/03/2025: **Optical Flow**](/notebooks/25_03_2025_optical_flow.ipynb)
   - Sparse Optical Flow - Lucas-Kanade Algorithm
   - Dense Optical Flow - Gunnar-Farneback Algorithm
+
+- [27/03/2025: **Mini Project**](/notebooks/27_03_2025_final_mini_project.ipynb)
+  - **Section A (All implemented)**:
+    - Fish segmentation in underwater images
+    - Homography matrix computation for player location mapping
+    - RANSAC algorithm for outlier detection
+    - Face detection with model improvement
+    - Color-based hand segmentation using HSV/YCbCr color spaces
+    - License plate character enhancement and classification
+  - **Section B (2 implemented)**:
+    - Cat-dog image classification using XGBoost
+    - Crops classification using XGBoost
 
 ## References
 
